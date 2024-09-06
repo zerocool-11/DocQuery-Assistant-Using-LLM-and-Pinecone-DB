@@ -1,0 +1,9 @@
+ipykernel
+langchain
+langchain-community 
+langchain_google_genai
+pinecone
+protoc_gen_openapiv2
+python-dotenv
+pypdf
+streamlit
