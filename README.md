@@ -1,5 +1,5 @@
 
-# PDF Document Q&A System
+# DocQuery-Assistant-Using-LLM-and-Pinecone-DB
 
 ## Overview
 The PDF Document Q&A System leverages the power of Google Generative AI and Pinecone vector database to provide a robust platform for answering questions directly from uploaded PDF documents. Built with Streamlit, this application combines advanced AI techniques to extract text, generate embeddings, and perform semantic searches to retrieve relevant answers.
