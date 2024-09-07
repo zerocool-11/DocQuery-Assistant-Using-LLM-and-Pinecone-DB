@@ -60,4 +60,3 @@ Yash Kumar – [@zeroday1202](https://x.com/zeroday1202) – zeroday1202@gmail.c
 - Google Generative AI for their powerful model APIs.
 - Pinecone for providing a scalable vector database.
 - Streamlit for enabling rapid application development.
-```
