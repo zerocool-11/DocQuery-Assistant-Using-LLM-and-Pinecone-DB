@@ -42,7 +42,7 @@ Navigate to `http://localhost:8501` in your web browser to view the application.
 You need to set up the following environment variables:
 
 - `PINECONE_API_KEY`: Your Pinecone API key.
-- `GOOGLE_GENAI_KEY`: Your Google Generative AI API key (if applicable).
+- `GOOGLE_API_KEY`: Your Google Generative AI API key (if applicable).
 
 These can be set in a `.env` file in the root directory of your project:
 
